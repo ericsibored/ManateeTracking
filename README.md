@@ -17,7 +17,7 @@ Set up the hardware:
 - Record policy name and Shared Access Policy Key
 - Use these details to set up integration of Particle with Azure IoT on console.particle.io
 - Create a custom JSON under "Advanced Settings"
-![alt text](https://github.com/ericsibored/ManateeTracking/ParticleJSON.png
+![alt text](https://github.com/ericsibored/ManateeTracking/blob/master/Assets/ParticleJSON.PNG)
 
 ## Azure Data Processing & Visualization
 - Create a new resource "Stream Analytics"
