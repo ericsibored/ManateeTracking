@@ -32,5 +32,7 @@ Set up the hardware:
 - Save Report & Deploy to Web Service as embed code
 - Paste into web app
 
+To demo our visualization, visit http://manatee.azurewebsites.net
+
 ## License
 2018, M.A.N.A.T.E.E. , Eric Zhang
