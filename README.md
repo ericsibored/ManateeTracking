@@ -34,7 +34,7 @@ Set up the hardware:
 
 To demo our visualization, visit http://manatee.azurewebsites.net
 Pictured below: screen grab of our visualization on 4/5/2018
-![alt text]https://github.com/ericsibored/ManateeTracking/blob/master/Assets/ManateeMap.PNG)
+![alt text](https://github.com/ericsibored/ManateeTracking/blob/master/Assets/ManateeMap.PNG)
 
 ## License
 2018, M.A.N.A.T.E.E. , Eric Zhang
